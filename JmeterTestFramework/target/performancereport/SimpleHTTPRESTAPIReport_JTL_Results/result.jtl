@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1608979758567,245,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (e-label.org.uk),Thread Group 1-1,text,false,,2356,0,2,2,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,228
+1608979758701,123,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: e-label.org.uk,Thread Group 1-2,text,false,,2153,0,2,2,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,95
+1608979759189,1,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: e-label.org.uk,Thread Group 1-3,text,false,,2070,0,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,1
+1608979759705,1,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: e-label.org.uk,Thread Group 1-4,text,false,,2070,0,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,1
+1608979760205,3,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: e-label.org.uk,Thread Group 1-5,text,false,,2070,0,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,1
+1608979760727,4,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: e-label.org.uk,Thread Group 1-6,text,false,,2070,0,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,2
+1608979761236,1,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: e-label.org.uk,Thread Group 1-7,text,false,,2070,0,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,0
+1608979761740,1,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: e-label.org.uk,Thread Group 1-8,text,false,,2070,0,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,1
+1608979762239,3,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: e-label.org.uk,Thread Group 1-9,text,false,,2070,0,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,2
+1608979762740,2,Http Sampler,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: e-label.org.uk,Thread Group 1-10,text,false,,2070,0,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,0,0,1
+1608985955547,2457,Http Sampler,200,OK,Thread Group 1-3,text,true,,35184,138,7,7,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,2182,0,1673
+1608985954962,3104,Http Sampler,200,OK,Thread Group 1-1,text,true,,35184,138,7,7,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,2766,0,2260
+1608985955059,3075,Http Sampler,200,OK,Thread Group 1-2,text,true,,35184,138,6,6,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,2771,0,2163
+1608985956065,2236,Http Sampler,200,OK,Thread Group 1-4,text,true,,35184,138,5,5,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1778,0,1157
+1608985956567,1836,Http Sampler,200,OK,Thread Group 1-5,text,true,,35184,138,4,4,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1375,0,777
+1608985957063,1788,Http Sampler,200,OK,Thread Group 1-6,text,true,,35184,138,4,4,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1324,0,734
+1608985957567,1465,Http Sampler,200,OK,Thread Group 1-7,text,true,,35184,138,3,3,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1159,0,733
+1608985958115,1493,Http Sampler,200,OK,Thread Group 1-8,text,true,,35184,138,3,3,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1180,0,738
+1608985958603,1307,Http Sampler,200,OK,Thread Group 1-9,text,true,,35184,138,2,2,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1152,0,724
+1608985959101,1288,Http Sampler,200,OK,Thread Group 1-10,text,true,,35184,138,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1133,0,708

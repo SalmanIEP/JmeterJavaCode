@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1608992167975,2062,Http Sampler,200,OK,Thread Group 1-3,text,true,,35184,138,7,7,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1794,0,1305
+1608992167472,2589,Http Sampler,200,OK,Thread Group 1-2,text,true,,35184,138,6,6,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,2296,0,1813
+1608992167302,3056,Http Sampler,200,OK,Thread Group 1-1,text,true,,35184,138,5,5,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,2597,0,1979
+1608992168992,1487,Http Sampler,200,OK,Thread Group 1-5,text,true,,35184,138,5,5,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1176,0,740
+1608992168481,2105,Http Sampler,200,OK,Thread Group 1-4,text,true,,35184,138,4,4,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1513,0,799
+1608992169473,1295,Http Sampler,200,OK,Thread Group 1-6,text,true,,35184,138,3,3,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1141,0,719
+1608992169970,1311,Http Sampler,200,OK,Thread Group 1-7,text,true,,35184,138,3,3,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1151,0,723
+1608992170471,1442,Http Sampler,200,OK,Thread Group 1-8,text,true,,35184,138,3,3,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1146,0,714
+1608992170971,1302,Http Sampler,200,OK,Thread Group 1-9,text,true,,35184,138,2,2,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1147,0,713
+1608992171472,1303,Http Sampler,200,OK,Thread Group 1-10,text,true,,35184,138,1,1,https://e-label.org.uk/CBT_API/api/cbt/Gettoolkit/2,1144,0,719
